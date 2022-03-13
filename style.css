@@ -12,3 +12,25 @@ body {
     padding: 60px 30px;
     height: 420px
 }
+.partb h1{
+    font-size: 50px;
+    letter-spacing: 2px;
+   }
+   .part2{
+       text-align: center;
+       padding: 50px;
+       font-size: 17px;
+   }
+   .part3 {
+       background-image: url("/images/mid.jpg");
+       background-size: cover;
+       background-repeat: no-repeat;
+       color: white;
+       text-align: center;
+       padding: 7%;
+   }
+   .part4 {
+       text-align: center;
+       padding: 4%;
+       font-size: 17px;
+   }
