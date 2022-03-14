@@ -34,10 +34,11 @@ body {
        padding: 4%;
        font-size: 17px;
    }
-   #portfolio1 {
+ #portfolio1 {
     padding: 2%;
     justify-content: space-between;
     font-size: 15px;
+
 }
 
 #portfolio2 {
@@ -54,6 +55,16 @@ h4 {
 h5 {
     font-size: 40px;
     color: black;
+}
+#portfolio1 :hover{
+    background-color: rgb(224, 225, 226);
+    font-size: 20px;
+    text-decoration: dotted;
+}
+#portfolio2:hover{
+    background-color: rgb(224, 225, 226);
+    font-size: 20px;
+    text-decoration: dotted;
 }
 .part6 {
     background-image: url("/images/bottom.jpg");
