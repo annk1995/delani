@@ -92,6 +92,11 @@ h5 {
 footer{
     margin-left: 560px;
 }
+.part5 {
+    display: inline-flex;
+    align-items: center;
+
+}
 .part5 h5{
-    margin-left: 470px;
+    font-size: 17px;
 }
