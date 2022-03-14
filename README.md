@@ -1,7 +1,7 @@
 # delani-studio project
 my githb pages link https://annk1995.github.io/delani/
 ##By kabui kariuki
-##Description
+##About
 * The project is about the Delani Studio,the studio on which people make amazing designs in a fun environment.
 ## setup/installation requirments
 *The project should have a well documented read me file
