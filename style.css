@@ -16,6 +16,10 @@ body {
     font-size: 50px;
     letter-spacing: 2px;
    }
+   #img1:hover{
+       width: 30px;
+   
+   }
    .part2{
        text-align: center;
        padding: 50px;
@@ -83,4 +87,7 @@ h5 {
 }
 footer{
     margin-left: 560px;
+}
+.part5 h5{
+    margin-left: 470px;
 }
