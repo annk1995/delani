@@ -3,7 +3,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .part1{
-    background-image: url("/images/back.jpg");
+    background-image: url("https://annk1995.github.io/delani/images/back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -26,7 +26,7 @@ body {
        font-size: 17px;
    }
    .part3 {
-       background-image: url("/images/mid.jpg");
+       background-image: url("https://annk1995.github.io/delani/images/bottom.jpg");
        background-size: cover;
        background-repeat: no-repeat;
        color: white;
@@ -71,7 +71,7 @@ h5 {
     text-decoration: dotted;
 }
 .part6 {
-    background-image: url("/images/bottom.jpg");
+    background-image: url("https://annk1995.github.io/delani/images/bottom.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     box-sizing: content-box;
