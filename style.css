@@ -57,4 +57,11 @@ h5 {
 }
 .part6 {
     background-image: url("/images/bottom.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: content-box;
+    text-align: center;
+    padding: 70px 30px;
+    height: 370px;
+    position: relative;
 }
