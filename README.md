@@ -1,4 +1,5 @@
 # delani-studio project
+my githb pages link https://annk1995.github.io/delani/
 ##By kabui kariuki
 ##Description
 * The project is about the Delani Studio,the studio on which people make amazing designs in a fun environment.
@@ -9,3 +10,8 @@
 *The working project should be deployed and the link to the live site provided on the Github repository.
 *The business logic and UI logic of the code should be separated.
 *The project code should be consistently indented & follows proper syntax which includes camelcase and appropriate naming of variables.
+### Input Example
+* Name , Email
+* A Text Area to leave a comment.
+### Output Example
+* A pop message 
