@@ -85,9 +85,7 @@ h5 {
     display: flex;
     justify-content: space-between;
 }
-.lastPart :hover{
-    width: 30px;
-}
+
 footer{
     margin-left: 560px;
 }
